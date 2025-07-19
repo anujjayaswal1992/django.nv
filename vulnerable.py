@@ -1,7 +1,7 @@
 # vuln_example.py
 
 import os 
-import subprocess
+import subprocess 
 
 def insecure_command(user_input):
     # Dangerous: vulnerable to command injection
