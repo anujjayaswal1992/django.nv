@@ -18,4 +18,4 @@ def hardcoded_secret():
 
 def use_eval():
     # Dangerous: using eval on user input
-    eval(user_input) 
+    eval(user_input)  
