@@ -1,6 +1,6 @@
 # vuln_example.py
 
-import os  
+import os   
 import subprocess 
 
 def insecure_command(user_input):
